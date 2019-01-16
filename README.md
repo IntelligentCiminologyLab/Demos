@@ -8,7 +8,7 @@ This repository contains the demo videos for different projects in Criminology L
 * **Summra Saleem**
 * **Saira Jabeen**
 * **AbdulRehman**
+* **Zeeshan Tariq**
 * **Muhammad Ali Mughal**
 * **Saleet-ul-Hassan**
 * **Junaid hussain**
-* **Zeeshan Tariq**
